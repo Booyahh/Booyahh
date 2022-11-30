@@ -6,13 +6,16 @@ Linux admin
 I am a technology enthusiast who like reading, learning and sharing new IT technologies. I am seeking a challenging position in engineering and research environment where I could add my knowledge and skills for the better solutions for the growth of organization and build my professional career. 
 
 
-Technical Skills: Linux System Administration , Cloud Computing(NooB), Dockers and Containers(NooB), , DevOps(NooB),
+Technical Skills: 
+
+> Linux System Administration , Cloud Computing(NooB), Dockers and Containers(NooB), , DevOps(NooB),
 
 ------------------------------------------------------------ 
 Cloud Computing : 
 
 > Experience in Amazon Web Services like EC2, 
-> > Containerized Technologies like Docker, Amazon EC2 
+
+> Containerized Technologies like Docker, Amazon EC2 
  
 Virtualisation Products : 
 
@@ -20,7 +23,9 @@ Virtualisation Products :
 
 Linux System Administration : 
 
-> Permissions, ACL, Partitions(LVM), Webmin Administration etc. > Knowledge of configuring servers like ssh, sshfs, iscsi, ftp, nfs, dns, dhcp, http/https(apache web server), telnet, postfix mail server etc on CentOS Ubuntu Linux. 
+> Permissions, ACL, Partitions(LVM), Webmin Administration etc. 
+
+> Knowledge of configuring servers like ssh, sshfs, iscsi, ftp, nfs, dns, dhcp, http/https(apache web server), telnet, postfix mail server etc on CentOS Ubuntu Linux. 
 
 DevOps :
 
