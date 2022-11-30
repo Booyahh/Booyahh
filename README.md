@@ -3,7 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux admin
 -----------
 
-I am a technology enthusiast who like reading, learning and sharing new IT technologies. I am seeking a challenging position in engineering and research environment where I could add my knowledge and skills for the better solutions for the growth of organization and build my professional career. Technical Skills: Linux System Administration , Cloud Computing(NooB), Dockers and Containers(NooB), , DevOps(NooB),
+I am a technology enthusiast who like reading, learning and sharing new IT technologies. I am seeking a challenging position in engineering and research environment where I could add my knowledge and skills for the better solutions for the growth of organization and build my professional career. 
+
+
+Technical Skills: Linux System Administration , Cloud Computing(NooB), Dockers and Containers(NooB), , DevOps(NooB),
 
 ------------------------------------------------------------ 
 Cloud Computing : 
