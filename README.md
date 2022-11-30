@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux admin
 -----------
 
-I am a technology enthusiast who like reading, learning and sharing new IT technologies. I am seeking a challenging position in engineering and research environment where I could add my knowledge and skills for the better solutions for the growth of organization and build my professional career. And AWS certified sysops administrator. Technical Skills: Linux System Administration, Dockers and Containers(NooB), Cloud Computing(NooB), DevOps(NooB), ------------------------------------------------------------ Cloud Computing : > Experience in Amazon Web Services like EC2, > Containerized Technologies like Docker, Amazon EC2 Virtualisation Products : > Oracle VirtualBox, Linux System Administration : > Permissions, ACL, Partitions(LVM), Webmin Administration etc. > Knowledge of configuring servers like ssh, sshfs, iscsi, ftp, nfs, dns, dhcp, http/https(apache web server), telnet, postfix mail server etc on CentOS Linux. DevOps : > Docker,
+I am a technology enthusiast who like reading, learning and sharing new IT technologies. I am seeking a challenging position in engineering and research environment where I could add my knowledge and skills for the better solutions for the growth of organization and build my professional career. And AWS certified sysops administrator. Technical Skills: Linux System Administration, Dockers and Containers(NooB), Cloud Computing(NooB), DevOps(NooB), 
+------------------------------------------------------------ 
+Cloud Computing : 
+> Experience in Amazon Web Services like EC2, 
+> > Containerized Technologies like Docker, Amazon EC2 Virtualisation Products : 
+> > > Oracle VirtualBox, Linux System Administration : > Permissions, ACL, Partitions(LVM), Webmin Administration etc. > Knowledge of configuring servers like ssh, sshfs, iscsi, ftp, nfs, dns, dhcp, http/https(apache web server), telnet, postfix mail server etc on CentOS Linux. DevOps : > Docker,
 
 *   🌍  I'm based in INDIA
 *   ✉️  You can contact me at [devad66@gmail.com](mailto:devad66@gmail.com)
